@@ -1,0 +1,11 @@
+.filter{
+    display: block; margin: 0 0 20px; 
+    select{
+        display: flex; align-items: center; justify-content: center; 
+        height: 40px; padding: 0 15px;
+        font-size: 16px; font-weight: bold; color: #505050;
+        background-color: #ffffff; border-radius: 5px; 
+        text-decoration: none; border: 1px solid #b3b3b3;
+        overflow: hidden; outline: none;
+    }
+}
